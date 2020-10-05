@@ -13,8 +13,8 @@ Araçları indirmek için araçların üzerilerine tıklayabilirisiniz.
   </br></br>
 - [jd-gui](http://java-decompiler.github.io/)
   - .jar uzantılı dosyayı decompile ederek java kodlarını görmenizi sağlar.
-  </br> </br>
-  <img src="  http://java-decompiler.github.io/img/jd-gui.png" alt="drawing" width="500"/>
+  </br></br>
+  <img src="http://java-decompiler.github.io/img/jd-gui.png" alt="drawing" width="500"/>
   </br>
 - [jadx](https://github.com/skylot/jadx): Bir başka decompiler.
  </br></br>
